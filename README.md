@@ -19,7 +19,9 @@ I focus mainly on full-stack development, API design, and UI-oriented products. 
 
 **Languages**
 - JavaScript  
-- HTML, CSS  
+- HTML, CSS
+- Python
+- Java
 
 **Frontend**
 - React  
