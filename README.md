@@ -48,8 +48,8 @@ I focus mainly on full-stack development, API design, and UI-oriented products. 
 ### Projects
 
 - **Beautiful Animals Encyclopedia** – React app with search, filters, and detail pages.  
-- **Historical Events Timeline API** – REST API for browsing events by year and topic.  
-- **AI Nature Sound Generator** – App for generating ambient soundscapes using AI services.  
+- **Netflix Movie Recommender** – ML projects that recommends movies through genre and other movie details.  
+- **Object Detection** – a computer vision project that can identify rock, paper and scissors of hand guestures(live camera supported) .  
 
 More projects are added regularly.
 
